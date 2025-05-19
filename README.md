@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darren</h1>
 
-<h3 align="center">I'm an Quant Analyst at an Investment Firm and I'm passionate about Data Science & Python Web Development'</h3>
+<h3 align="center">I'm an Quant Researcher at an Investment Management Company and I'm passionate about Data Science & Python Web Development'</h3>
 
 
 - 🤔 I enjoy learning about ML Ops, ML pipeline development & also Python Software Development
